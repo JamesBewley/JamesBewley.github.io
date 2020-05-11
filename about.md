@@ -1,13 +1,18 @@
 ---
 layout: page
 title: About
-group: navigation
+permalink: /about/
 ---
 
-My name is James Bewley.  I'm a software engineer, technologist and designer based in Bristol, UK.  I'm currently developing remote monitoring system's for
-[Telemisis](http://www.telemisis.com/),
-More information [can be found on LinkedIn](http://www.linkedin.com/in/jamesbewley).
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-## Contact
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-Get in touch by email [jamesbewley@gmail.com](mailto:jamesbewley@gmail.com).
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
